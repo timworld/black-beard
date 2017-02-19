@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-  db: 'mongodb://localhost/noobjs_test',
+  db: 'mongodb://localhost/black_beard_test',
   facebook: {
     clientID: process.env.FACEBOOK_CLIENTID,
     clientSecret: process.env.FACEBOOK_SECRET,
